@@ -1,0 +1,317 @@
+{
+  "id": "2360075",
+  "name": "通用后台",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "807275",
+      "name": "全屏",
+      "font_class": "full-screen",
+      "unicode": "e660",
+      "unicode_decimal": 58976
+    },
+    {
+      "icon_id": "807276",
+      "name": "缩小",
+      "font_class": "exit-full-screen",
+      "unicode": "e661",
+      "unicode_decimal": 58977
+    },
+    {
+      "icon_id": "6718994",
+      "name": "菜单-收缩",
+      "font_class": "menu-unfold",
+      "unicode": "e6a3",
+      "unicode_decimal": 59043
+    },
+    {
+      "icon_id": "6718995",
+      "name": "菜单-打开",
+      "font_class": "menu-fold",
+      "unicode": "e6a4",
+      "unicode_decimal": 59044
+    },
+    {
+      "icon_id": "6732484",
+      "name": "刷新",
+      "font_class": "refresh-outline",
+      "unicode": "e6a8",
+      "unicode_decimal": 59048
+    },
+    {
+      "icon_id": "6732485",
+      "name": "重置",
+      "font_class": "reset-outline",
+      "unicode": "e6a9",
+      "unicode_decimal": 59049
+    },
+    {
+      "icon_id": "17954202",
+      "name": "收起",
+      "font_class": "up",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "17954203",
+      "name": "加",
+      "font_class": "plus",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "17954204",
+      "name": "下拉",
+      "font_class": "down",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "17954205",
+      "name": "取消",
+      "font_class": "close",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "17954206",
+      "name": "管理员设置",
+      "font_class": "card",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "17954207",
+      "name": "下一页",
+      "font_class": "next",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "17954208",
+      "name": "合作方管理",
+      "font_class": "cooperation",
+      "unicode": "e62d",
+      "unicode_decimal": 58925
+    },
+    {
+      "icon_id": "17954209",
+      "name": "平台帮助文档",
+      "font_class": "info",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "17954210",
+      "name": "邮箱",
+      "font_class": "emial",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "17954212",
+      "name": "保险产品管理",
+      "font_class": "cube",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "17954215",
+      "name": "工具箱",
+      "font_class": "tools",
+      "unicode": "e634",
+      "unicode_decimal": 58932
+    },
+    {
+      "icon_id": "17954216",
+      "name": "数据",
+      "font_class": "data",
+      "unicode": "e635",
+      "unicode_decimal": 58933
+    },
+    {
+      "icon_id": "17954217",
+      "name": "管理",
+      "font_class": "manager",
+      "unicode": "e636",
+      "unicode_decimal": 58934
+    },
+    {
+      "icon_id": "18122432",
+      "name": "创建-折叠样式",
+      "font_class": "create",
+      "unicode": "e638",
+      "unicode_decimal": 58936
+    },
+    {
+      "icon_id": "18122435",
+      "name": "启用-折叠样式",
+      "font_class": "enabled",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "18122436",
+      "name": "下线-折叠样式",
+      "font_class": "offline",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "18122437",
+      "name": "停用-折叠样式",
+      "font_class": "disable",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "18122438",
+      "name": "上线-折叠样式",
+      "font_class": "online",
+      "unicode": "e63e",
+      "unicode_decimal": 58942
+    },
+    {
+      "icon_id": "18122439",
+      "name": "统计-折叠样式",
+      "font_class": "chart-bar",
+      "unicode": "e63f",
+      "unicode_decimal": 58943
+    },
+    {
+      "icon_id": "18122442",
+      "name": "发布-折叠样式",
+      "font_class": "release",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "18122447",
+      "name": "刷新-折叠样式",
+      "font_class": "refresh",
+      "unicode": "e647",
+      "unicode_decimal": 58951
+    },
+    {
+      "icon_id": "18122448",
+      "name": "复制-折叠样式",
+      "font_class": "copy",
+      "unicode": "e648",
+      "unicode_decimal": 58952
+    },
+    {
+      "icon_id": "18122449",
+      "name": "修改-折叠样式",
+      "font_class": "edit",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "18122451",
+      "name": "删除-折叠样式",
+      "font_class": "delete",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "18122452",
+      "name": "详情-折叠样式",
+      "font_class": "detail",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "18139214",
+      "name": "查看",
+      "font_class": "chakan",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    },
+    {
+      "icon_id": "18140567",
+      "name": "电话",
+      "font_class": "phone",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "18140662",
+      "name": "密码",
+      "font_class": "password",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "18242113",
+      "name": "保险责任",
+      "font_class": "guarantee",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "18242134",
+      "name": "材料管理",
+      "font_class": "material",
+      "unicode": "e643",
+      "unicode_decimal": 58947
+    },
+    {
+      "icon_id": "18242140",
+      "name": "附件管理",
+      "font_class": "enclosure",
+      "unicode": "e644",
+      "unicode_decimal": 58948
+    },
+    {
+      "icon_id": "18616292",
+      "name": "plan",
+      "font_class": "plan",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "18618891",
+      "name": "set",
+      "font_class": "set",
+      "unicode": "e646",
+      "unicode_decimal": 58950
+    },
+    {
+      "icon_id": "18618931",
+      "name": "pay",
+      "font_class": "pay",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "18693585",
+      "name": "fold ",
+      "font_class": "fold",
+      "unicode": "e64d",
+      "unicode_decimal": 58957
+    },
+    {
+      "icon_id": "18693586",
+      "name": "configuration",
+      "font_class": "configuration",
+      "unicode": "e64e",
+      "unicode_decimal": 58958
+    },
+    {
+      "icon_id": "18693587",
+      "name": "version",
+      "font_class": "version",
+      "unicode": "e64f",
+      "unicode_decimal": 58959
+    },
+    {
+      "icon_id": "18693588",
+      "name": "massage",
+      "font_class": "massage",
+      "unicode": "e650",
+      "unicode_decimal": 58960
+    }
+  ]
+}
